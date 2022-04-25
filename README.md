@@ -9,3 +9,8 @@ http://localhost:8000/
 
 phpmyadmin
 http://localhost:3000/
+
+laravel
+```bash
+docker exec -it laravel_app bash
+```
